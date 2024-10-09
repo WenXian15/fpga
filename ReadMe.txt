@@ -7,7 +7,7 @@ PCIe
 pg213 - UltraScale+ Devices Integrated Block for PCI Express
 
 Transceiver
-KeyConcept: GTY_COMMON, GTY_CHANNEL, PCS/PMA, PCIE404E Block, GT Quad, CPLL/QPLL
+KeyConcept: GTY_COMMON, GTY_CHANNEL, CPLL/QPLL, PCS/PMA, PCIE404E Block, GT Quad, 
 https://0x04.net/~mwk/xidocs/ug/ug578-ultrascale-gty-transceivers.pdf
 https://billauer.co.il/blog/2016/03/mgt-gtx-fpga/#:~:text=QPLL%20vs.&text=In%20addition%2C%20each%20GTX%20has,the%20QPLL%20covers%20higher%20frequencies.
 https://billauer.co.il/blog/2020/08/xilinx-ultrascale-cpll-calibration/
