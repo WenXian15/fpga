@@ -8,6 +8,7 @@ https://www.electronicspecifier.com/attachment/view/5d5fb3495a8ec9e14f8b456d/Xil
 PCIe
 ====
 pg213 - UltraScale+ Devices Integrated Block for PCI Express
+pg239 - PCIe Express PHY
 
 ===
 DDR
