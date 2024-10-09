@@ -30,6 +30,10 @@ https://billauer.co.il/blog/2020/08/xilinx-ultrascale-cpll-calibration/
 GT Usage
 pg239 - PCIe Express PHY
 
+=========
+Chipscope
+=========
+- Use pipeline to loosen timing
 
 ==============
 Expensive FPGA
