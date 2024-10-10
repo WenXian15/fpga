@@ -18,11 +18,13 @@ pg239 - PCIe Express PHY
 ===
 DDR
 ===
-https://docs.amd.com/r/en-US/ug586_7Series_MIS/Clocking-Architecture?tocId=vKZi3JogyCep57tDVzAT3Q
+UG586 - https://docs.amd.com/r/en-US/ug586_7Series_MIS/Clocking-Architecture?tocId=vKZi3JogyCep57tDVzAT3Q
 
 ===================
 Gigabit Transceiver
 ===================
+UG578 - https://docs.amd.com/v/u/en-US/ug578-ultrascale-gty-transceivers
+
 Main Components: GTY_COMMON, GTY_CHANNEL, CPLL/QPLL, PCS/PMA, PCIE404E Block, GT Quad, 
 Reading Material
 1. https://billauer.co.il/blog/2016/03/mgt-gtx-fpga/#:~:text=QPLL%20vs.&text=In%20addition%2C%20each%20GTX%20has,the%20QPLL%20covers%20higher%20frequencies.
