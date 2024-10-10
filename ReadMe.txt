@@ -14,6 +14,7 @@ PCIe
 ====
 pg213 - UltraScale+ Devices Integrated Block for PCI Express
 pg239 - PCIe Express PHY
+PCIe Debug - https://xilinx.github.io/pcie-debug-kmap/pciedebug/build/html/docs/PCIe_Collaterals/PCIe_LFARs_Long_Form_Answer_Records.html
 
 ===
 DDR
