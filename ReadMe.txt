@@ -34,6 +34,7 @@ Reading Material
 Common Problems
 1. CPLL calibration
 https://billauer.co.il/blog/2020/08/xilinx-ultrascale-cpll-calibration/
+2. QPLL vs CPLL
 
 GT Usage
 pg239 - PCIe Express PHY
