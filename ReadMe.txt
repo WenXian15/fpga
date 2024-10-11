@@ -35,6 +35,8 @@ Common Problems
 1. CPLL calibration
 https://billauer.co.il/blog/2020/08/xilinx-ultrascale-cpll-calibration/
 2. QPLL vs CPLL
+With 2.5GT/s, there will only a single CPLL to pair with GTY_CHANNEL. 
+QPLL uses both GTY_COMMON and GTY_CHANNEL
 
 GT Usage
 pg239 - PCIe Express PHY
