@@ -29,7 +29,6 @@ UG578 - https://docs.amd.com/v/u/en-US/ug578-ultrascale-gty-transceivers
 Main Components: GTY_COMMON, GTY_CHANNEL, CPLL/QPLL, PCS/PMA, PCIE404E Block, GT Quad, 
 Reading Material
 1. https://billauer.co.il/blog/2016/03/mgt-gtx-fpga/#:~:text=QPLL%20vs.&text=In%20addition%2C%20each%20GTX%20has,the%20QPLL%20covers%20higher%20frequencies.
-2. https://0x04.net/~mwk/xidocs/ug/ug578-ultrascale-gty-transceivers.pdf
 
 Common Problems
 1. CPLL calibration
